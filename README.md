@@ -26,7 +26,7 @@ This repository provides a Node.js script to generate Maintenance Work Rules bas
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/eduardo-olivares/maintenance-work-rules-generator.git
+   git clone https://github.com/alfredodrv/salesforce-maintenance-work-rules-generator
    cd maintenance-work-rules-generator
    ```
 
