@@ -1,0 +1,23 @@
+{
+  "name": "salesforce-maintenance-work-rules-generator",
+  "version": "0.0.1",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alfredo del Rio (https://www.bedoers.com)",
+  "license": "MIT",
+  "description": "Generates Maintenance Work Rules from existing Maintenance Plans in Salesforce",
+  "homepage": "https://github.com/alfredodrv/salesforce-maintenance-work-rules-generator",
+  "keywords": [
+    "salesforce",
+    "maintenance",
+    "work",
+    "rules",
+    "generator"
+  ],
+  "dependencies": {
+    "ical-generator": "^7.1.0"
+  }
+}
